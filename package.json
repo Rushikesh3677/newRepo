@@ -1,0 +1,22 @@
+{
+  "name": "newrepo",
+  "version": "1.0.0",
+  "description": "timepass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rushikesh3677/newRepo.git"
+  },
+  "author": "Rushi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rushikesh3677/newRepo/issues"
+  },
+  "homepage": "https://github.com/Rushikesh3677/newRepo#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
